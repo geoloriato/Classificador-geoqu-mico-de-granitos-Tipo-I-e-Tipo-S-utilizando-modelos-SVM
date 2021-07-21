@@ -16,7 +16,7 @@ Dentre as características dos elementos maiores, destacam-se:
  - O índice A/CNK dos granitos tipo I é, geralmente, inferior a 1,05, já em granitos tipo S o índice A/CNK é superior a 1,05;
  - Granitos tipo I apresentam valores maiores de Ca, Na e K;
  - Granitos tipo S são mais ricos em Al
- - 
+ 
 Da mesma maneira, os elementos traços e terras raras também apresentam comportamento distinto nos dois tipos de granitos. Granitos tipo S são ricos em Rb e metais de transição (Pb, Cr e Ni) e pobres em Sr, Cu, e Mo.
 
 Em relação à essa classificação, é importante enfatizar que a distinção entre os tipos I e S, ainda que fundamentada em critérios observacionais, é essencialmente genética e conceitual. Diante do avanço de estudos em granitoides, a classificação destas rochas nos tipos I e S tem sido reavaliada, não podendo ser feita apenas pela mineralogia primária e o índice de saturação de alumina conforme proposto por Chappell & White (1974). Gao et al. (2016) e Gao et al. (2017) destacam que essa dificuldade em aplicar a classificação em tipos I e S se deve ao fato de que as características de granitos altamente diferenciados se sobrepõem, havendo então a necessidade de avaliar características que vão além da composição mineralógica e do índice de saturação em alumina.
