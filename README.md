@@ -1,8 +1,12 @@
-﻿# Classificador geoquímico de granitos "Tipo I" e "Tipo S" utilizando modelos SVM
+# Classificador geoquímico de granitos "Tipo I" e "Tipo S" utilizando modelos SVM
 
-**Aluno:** Guilherme Loriato Potratz
+#### Aluno: [Guilherme Loriato Potratz](https://github.com/potratzguilherme)
+#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
 
-**Orientadora:** Manoela Kohler
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+
+- [Link para o código](https://github.com/potratzguilherme/Classificador-de-granitos/blob/main/Monografia_treinamento.ipynb). 
 
 
 # 1. Introdução
@@ -79,3 +83,11 @@ Foram gerados três modelos distintos, pois nem todas as análises litogeoquími
  - Mesmo o Modelo A, que apresentou os piores resultados, demonstra grande capacidade para classificação de granitos;
  - Algum erro é esperado na classificação dos granitos, uma vez que, quanto mais evoluído for o magma, mais semelhanças os dois tipos de granitos apresentam;
  - Na inferência realizada, apenas uma amostra foi classificada incorretamente. Todas as amostras utilizadas para inferência são de granitos tipo I, contudo, uma foi classificada como tipo S. Esse erro não prejudica a análise, pois todas as análises são da mesma unidade, por isso, o usuário pode ignorar as amostras classificadas erroneamente com erros tão baixos.
+
+
+
+Matrícula: 211.100.454
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
